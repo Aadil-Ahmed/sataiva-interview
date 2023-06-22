@@ -1,0 +1,17 @@
+.tr{
+    border: 1px solid;
+}
+
+.table-main{
+    position: relative;
+    left: 400px;
+}
+
+.img-btn{
+    height: 40px;
+}
+
+.img-btn img{
+    height: 40px;
+
+}
